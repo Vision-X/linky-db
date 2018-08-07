@@ -15,9 +15,7 @@
  - [x] Populate our table with starter data
 
 - [x] Queries
-- [] App.js routes
+- [x] App.js routes
 
-- [] Deploy to Heroku
-- [] Test deployment before frontend
-
-## Step 2 - React front-end
+- [x] Deploy to Heroku
+- [x] Test deployment before frontend
